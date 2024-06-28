@@ -1,3 +1,5 @@
+![MedHackathon logo](images/medhackathon2025.png)
+
 # MedHackathon 2025
 
 ## Background
@@ -12,6 +14,6 @@ The primary objective of the MedHackathon is to establish a robust networking pl
 
 3-7 February 2025
 
-## Tentative venue
+## Tentative place
 
-Buri (Burapha university)
+Buri, Chonburi, Thailand
