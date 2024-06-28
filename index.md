@@ -20,3 +20,20 @@ The primary objective of the MedHackathon is to establish a robust networking pl
 ## Tentative place
 
 Buri, Chonburi, Thailand
+
+# My Markdown Content
+
+This is my markdown content.
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Select the specific <h1> element with the <a> tag containing the link to "https://medhackathon.github.io/2025/"
+    var elementToRemove = document.querySelector('h1 a[href="https://medhackathon.github.io/2025/"]');
+    if (elementToRemove) {
+        var parent = elementToRemove.closest('h1'); // Find the closest <h1> ancestor
+        if (parent) {
+            parent.remove(); // Remove the <h1> element
+        }
+    }
+});
+</script>
