@@ -1,4 +1,7 @@
-![MedHackathon logo](images/MedHackathon_logo.png)
+<!-- centering markdown images -->
+<p align="center">
+  <img src="images/MedHackathon_logo.png">
+</p>
 
 # MedHackathon 2025
 
