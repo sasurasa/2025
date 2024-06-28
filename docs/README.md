@@ -1,4 +1,4 @@
-![MedHackathon logo](images/medhackathon2025.png)
+![MedHackathon logo](images/MedHackathon_logo.png)
 
 # MedHackathon 2025
 
