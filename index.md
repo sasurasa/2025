@@ -1,6 +1,6 @@
 <!-- centering markdown images -->
 <p align="center">
-  <img src="images/MedHackathon_logo.png">
+  <img width="200" src="images/MedHackathon_logo.png">
 </p>
 
 # MedHackathon 2025
